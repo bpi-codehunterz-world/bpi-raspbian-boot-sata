@@ -1,0 +1,1 @@
+# bpi-raspbian-boot-sata
